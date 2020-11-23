@@ -1,0 +1,61 @@
+table{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#sub-total {
+    border-top: solid #000 1px;
+}
+th {
+    background-color: #aaaaaa;
+    color: navy;
+    border: solid #000 1px;
+}
+
+.data {
+    border-left: solid #000 1px;
+    border-right: solid #000 1px;
+}
+
+#total-due{
+    border-bottom: solid #000 1px;
+}
+
+.r {
+    text-align: right;
+}
+
+td{
+    /* border: solid #000 1px; */
+    vertical-align: top;
+}
+
+#Zip {
+    text-align: left;
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+#quotation{
+    text-align: right;
+    font-size: 25px;
+}
+#phone{
+    width:250px;
+}
+#date{
+    text-align: right;
+}
+#title{
+    width: 55px;
+}
+
+.b {
+    border: solid black 1px;
+}
+
+#pic{
+    text-align: right;
+}
