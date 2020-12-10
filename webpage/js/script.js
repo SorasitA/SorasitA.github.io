@@ -81,7 +81,7 @@ $(document).ready(function () {
     })
 
     $('#Back').click(function () {
-        location.href = "https://sorasita.github.io/webpage/"
+        location.href = "file:///E:/webdev/04/pull/auvms-wad/04-bootstrap/index.html"
     })
 
 })
